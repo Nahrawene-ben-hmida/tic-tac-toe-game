@@ -2,7 +2,7 @@
 import React , {useState} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
+// eslint-disable-next-line
 const gamestules = {
   backgroundColor : 'salmon',
   margin : 10,
